@@ -32,9 +32,9 @@ X - get, set pentru toate datele membre
 
 X - supraincarcarea operatorilor << si >> pentru iesiri si intrari de obiecte, dupa indicatiile de mai jos, astfel incat sa fie permise (si ilustrate in program):
 
-- sa existe o metoda publica prin care se realizeaza citirea informațiilor complete a n obiecte, memorarea și afisarea acestora.
+X - sa existe o metoda publica prin care se realizeaza citirea informațiilor complete a n obiecte, memorarea și afisarea acestora.
 
-- programul sa aiba un meniu interactiv
+X - programul sa aiba un meniu interactiv
 
 */
 
